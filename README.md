@@ -1,15 +1,15 @@
 <div align="center">
-    <img src="https://raw.githubusercontent.com/UseInterstellar/Interstellar/main/.github/branding/in.png">
+    <img src="https://raw.githubusercontent.com/UseJAXSONUB/JAXSONUB/main/.github/branding/in.png">
     <p>Serving over 15 million users since 2022.<p>
-    <p>Interstellar is a web proxy with a Clean and Sleek UI and easy to use menus. Our goal is to provide the best user experience to everyone.</p>
+    <p>JAXSONUB is a web proxy with a Clean and Sleek UI and easy to use menus. Our goal is to provide the best user experience to everyone.</p>
 </div>
 
-![inpreview](https://github.com/UseInterstellar/Interstellar/assets/89202835/2669efed-5186-4932-83c4-725acae60bd2)
+![inpreview](https://github.com/UseJAXSONUB/JAXSONUB/assets/89202835/2669efed-5186-4932-83c4-725acae60bd2)
 
 > [!IMPORTANT]
 > If you fork this project, consider giving it a star in the original repository!
 
-**Join Our [Discord Community](https://discord.gg/interstellar) for support, more links, and an active community!**
+**Join Our [Discord Community](https://discord.gg/JAXSONUB) for support, more links, and an active community!**
 
 ## Features
 
@@ -43,15 +43,15 @@
 You must run these commands on your server:
 
 ```bash
-git clone https://github.com/UseInterstellar/Interstellar
-cd Interstellar
+git clone https://github.com/UseJAXSONUB/JAXSONUB
+cd JAXSONUB
 ```
 
 #### Ad-Free Deployment
 
 ```bash
-git clone --branch Ad-Free https://github.com/UseInterstellar/Interstellar
-cd Interstellar
+git clone --branch Ad-Free https://github.com/UseJAXSONUB/JAXSONUB
+cd JAXSONUB
 ```
 
 Next depending on your package manager, run one of the following commands:
@@ -86,16 +86,16 @@ npm run start
 ### Updating
 
 ```bash
-cd Interstellar
+cd JAXSONUB
 git pull --force --allow-unrelated-histories # This may overwrite your local changes
 ```
 
-<a target="_blank" href="https://heroku.com/deploy/?template=https://github.com/UseInterstellar/Interstellar"><img alt="Deploy to Heroku" src="https://binbashbanana.github.io/deploy-buttons/buttons/remade/heroku.svg"></a>
-<a target="_blank" href="https://app.koyeb.com/deploy?type=git&repository=github.com/UseInterstellar/Interstellar"><img alt="Deploy to Koyeb" src="https://binbashbanana.github.io/deploy-buttons/buttons/remade/koyeb.svg"></a>
+<a target="_blank" href="https://heroku.com/deploy/?template=https://github.com/UseJAXSONUB/JAXSONUB"><img alt="Deploy to Heroku" src="https://binbashbanana.github.io/deploy-buttons/buttons/remade/heroku.svg"></a>
+<a target="_blank" href="https://app.koyeb.com/deploy?type=git&repository=github.com/UseJAXSONUB/JAXSONUB"><img alt="Deploy to Koyeb" src="https://binbashbanana.github.io/deploy-buttons/buttons/remade/koyeb.svg"></a>
 
 ### Deployment Alternatives
 
-For more deployment options, join our [Discord Server](https://discord.gg/interstellar) for various ways to deploy Interstellar.
+For more deployment options, join our [Discord Server](https://discord.gg/JAXSONUB) for various ways to deploy JAXSONUB.
 This includes methods of deploying to Render/OnRender.
 
 #### What happened to Replit Deployment?
